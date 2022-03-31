@@ -1,0 +1,101 @@
+customer_full_name,geoip,email
+Eddie Underwood,"{'continent_name': 'Africa', 'city_name': 'Cairo', 'country_iso_code': 'EG', 'location': {'lon': 31.3, 'lat': 30.1}, 'region_name': 'Cairo Governorate'}",eddie@underwood-family.zzz
+Elyssa Underwood,"{'continent_name': 'North America', 'city_name': 'New York', 'country_iso_code': 'US', 'location': {'lon': -74, 'lat': 40.8}, 'region_name': 'New York'}",elyssa@underwood-family.zzz
+Diane Underwood,"{'continent_name': 'Europe', 'country_iso_code': 'GB', 'location': {'lon': -0.1, 'lat': 51.5}}",diane@underwood-family.zzz
+Mostafa Underwood,"{'continent_name': 'Africa', 'city_name': 'Cairo', 'country_iso_code': 'EG', 'location': {'lon': 31.3, 'lat': 30.1}, 'region_name': 'Cairo Governorate'}",mostafa@underwood-family.zzz
+Gwen Underwood,"{'continent_name': 'North America', 'city_name': 'Los Angeles', 'country_iso_code': 'US', 'location': {'lon': -118.2, 'lat': 34.1}, 'region_name': 'California'}",gwen@underwood-family.zzz
+Boris Underwood,"{'continent_name': 'Europe', 'country_iso_code': 'GB', 'location': {'lon': -0.1, 'lat': 51.5}}",boris@underwood-family.zzz
+Robbie Underwood,"{'continent_name': 'Asia', 'city_name': 'Dubai', 'country_iso_code': 'AE', 'location': {'lon': 55.3, 'lat': 25.3}, 'region_name': 'Dubai'}",robbie@underwood-family.zzz
+Wagdi Underwood,"{'continent_name': 'Asia', 'country_iso_code': 'SA', 'location': {'lon': 45, 'lat': 25}}",wagdi@underwood-family.zzz
+Abd Underwood,"{'continent_name': 'Africa', 'city_name': 'Cairo', 'country_iso_code': 'EG', 'location': {'lon': 31.3, 'lat': 30.1}, 'region_name': 'Cairo Governorate'}",abd@underwood-family.zzz
+Mary Underwood,"{'continent_name': 'Asia', 'city_name': 'Dubai', 'country_iso_code': 'AE', 'location': {'lon': 55.3, 'lat': 25.3}, 'region_name': 'Dubai'}",mary@underwood-family.zzz
+Abd Underwood,"{'continent_name': 'Africa', 'city_name': 'Cairo', 'country_iso_code': 'EG', 'location': {'lon': 31.3, 'lat': 30.1}, 'region_name': 'Cairo Governorate'}",abd@underwood-family.zzz
+Thad Underwood,"{'continent_name': 'North America', 'city_name': 'New York', 'country_iso_code': 'US', 'location': {'lon': -74, 'lat': 40.8}, 'region_name': 'New York'}",thad@underwood-family.zzz
+Muniz Underwood,"{'continent_name': 'Africa', 'city_name': 'Marrakesh', 'country_iso_code': 'MA', 'location': {'lon': -8, 'lat': 31.6}, 'region_name': 'Marrakech-Tensift-Al Haouz'}",muniz@underwood-family.zzz
+Fitzgerald Underwood,"{'continent_name': 'North America', 'city_name': 'Los Angeles', 'country_iso_code': 'US', 'location': {'lon': -118.2, 'lat': 34.1}, 'region_name': 'California'}",fitzgerald@underwood-family.zzz
+Diane Underwood,"{'continent_name': 'Europe', 'country_iso_code': 'GB', 'location': {'lon': -0.1, 'lat': 51.5}}",diane@underwood-family.zzz
+Mary Underwood,"{'continent_name': 'Asia', 'city_name': 'Dubai', 'country_iso_code': 'AE', 'location': {'lon': 55.3, 'lat': 25.3}, 'region_name': 'Dubai'}",mary@underwood-family.zzz
+Brigitte Underwood,"{'continent_name': 'North America', 'city_name': 'New York', 'country_iso_code': 'US', 'location': {'lon': -74, 'lat': 40.8}, 'region_name': 'New York'}",brigitte@underwood-family.zzz
+Wagdi Underwood,"{'continent_name': 'Asia', 'country_iso_code': 'SA', 'location': {'lon': 45, 'lat': 25}}",wagdi@underwood-family.zzz
+Wagdi Underwood,"{'continent_name': 'Asia', 'country_iso_code': 'SA', 'location': {'lon': 45, 'lat': 25}}",wagdi@underwood-family.zzz
+Frances Underwood,"{'continent_name': 'Europe', 'city_name': 'Cannes', 'country_iso_code': 'FR', 'location': {'lon': 7, 'lat': 43.6}, 'region_name': 'Alpes-Maritimes'}",frances@underwood-family.zzz
+Abigail Underwood,"{'continent_name': 'Europe', 'city_name': 'Birmingham', 'country_iso_code': 'GB', 'location': {'lon': -1.9, 'lat': 52.5}, 'region_name': 'Birmingham'}",abigail@underwood-family.zzz
+Clarice Underwood,"{'continent_name': 'Europe', 'city_name': 'Birmingham', 'country_iso_code': 'GB', 'location': {'lon': -1.9, 'lat': 52.5}, 'region_name': 'Birmingham'}",clarice@underwood-family.zzz
+Gwen Underwood,"{'continent_name': 'North America', 'city_name': 'Los Angeles', 'country_iso_code': 'US', 'location': {'lon': -118.2, 'lat': 34.1}, 'region_name': 'California'}",gwen@underwood-family.zzz
+Jackson Underwood,"{'continent_name': 'North America', 'city_name': 'Los Angeles', 'country_iso_code': 'US', 'location': {'lon': -118.2, 'lat': 34.1}, 'region_name': 'California'}",jackson@underwood-family.zzz
+Yuri Underwood,"{'continent_name': 'Europe', 'city_name': 'Cannes', 'country_iso_code': 'FR', 'location': {'lon': 7, 'lat': 43.6}, 'region_name': 'Alpes-Maritimes'}",yuri@underwood-family.zzz
+Brigitte Underwood,"{'continent_name': 'North America', 'city_name': 'New York', 'country_iso_code': 'US', 'location': {'lon': -74, 'lat': 40.8}, 'region_name': 'New York'}",brigitte@underwood-family.zzz
+Youssef Underwood,"{'continent_name': 'North America', 'city_name': 'New York', 'country_iso_code': 'US', 'location': {'lon': -74, 'lat': 40.8}, 'region_name': 'New York'}",youssef@underwood-family.zzz
+Boris Underwood,"{'continent_name': 'Europe', 'country_iso_code': 'GB', 'location': {'lon': -0.1, 'lat': 51.5}}",boris@underwood-family.zzz
+George Underwood,"{'continent_name': 'Europe', 'city_name': 'Birmingham', 'country_iso_code': 'GB', 'location': {'lon': -1.9, 'lat': 52.5}, 'region_name': 'Birmingham'}",george@underwood-family.zzz
+Tariq Underwood,"{'continent_name': 'Asia', 'city_name': 'Istanbul', 'country_iso_code': 'TR', 'location': {'lon': 29, 'lat': 41}, 'region_name': 'Istanbul'}",tariq@underwood-family.zzz
+Hicham Underwood,"{'continent_name': 'Africa', 'city_name': 'Marrakesh', 'country_iso_code': 'MA', 'location': {'lon': -8, 'lat': 31.6}, 'region_name': 'Marrakech-Tensift-Al Haouz'}",hicham@underwood-family.zzz
+Elyssa Underwood,"{'continent_name': 'North America', 'city_name': 'New York', 'country_iso_code': 'US', 'location': {'lon': -74, 'lat': 40.8}, 'region_name': 'New York'}",elyssa@underwood-family.zzz
+Robbie Underwood,"{'continent_name': 'Asia', 'city_name': 'Dubai', 'country_iso_code': 'AE', 'location': {'lon': 55.3, 'lat': 25.3}, 'region_name': 'Dubai'}",robbie@underwood-family.zzz
+Gwen Underwood,"{'continent_name': 'North America', 'city_name': 'Los Angeles', 'country_iso_code': 'US', 'location': {'lon': -118.2, 'lat': 34.1}, 'region_name': 'California'}",gwen@underwood-family.zzz
+Diane Underwood,"{'continent_name': 'Europe', 'country_iso_code': 'GB', 'location': {'lon': -0.1, 'lat': 51.5}}",diane@underwood-family.zzz
+Betty Underwood,"{'continent_name': 'North America', 'city_name': 'New York', 'country_iso_code': 'US', 'location': {'lon': -74, 'lat': 40.7}, 'region_name': 'New York'}",betty@underwood-family.zzz
+Mostafa Underwood,"{'continent_name': 'Africa', 'city_name': 'Cairo', 'country_iso_code': 'EG', 'location': {'lon': 31.3, 'lat': 30.1}, 'region_name': 'Cairo Governorate'}",mostafa@underwood-family.zzz
+Selena Underwood,"{'continent_name': 'Africa', 'city_name': 'Marrakesh', 'country_iso_code': 'MA', 'location': {'lon': -8, 'lat': 31.6}, 'region_name': 'Marrakech-Tensift-Al Haouz'}",selena@underwood-family.zzz
+Gwen Underwood,"{'continent_name': 'North America', 'city_name': 'Los Angeles', 'country_iso_code': 'US', 'location': {'lon': -118.2, 'lat': 34.1}, 'region_name': 'California'}",gwen@underwood-family.zzz
+Gwen Underwood,"{'continent_name': 'North America', 'city_name': 'Los Angeles', 'country_iso_code': 'US', 'location': {'lon': -118.2, 'lat': 34.1}, 'region_name': 'California'}",gwen@underwood-family.zzz
+Betty Underwood,"{'continent_name': 'North America', 'city_name': 'New York', 'country_iso_code': 'US', 'location': {'lon': -74, 'lat': 40.7}, 'region_name': 'New York'}",betty@underwood-family.zzz
+Abigail Underwood,"{'continent_name': 'Europe', 'city_name': 'Birmingham', 'country_iso_code': 'GB', 'location': {'lon': -1.9, 'lat': 52.5}, 'region_name': 'Birmingham'}",abigail@underwood-family.zzz
+Elyssa Underwood,"{'continent_name': 'North America', 'city_name': 'New York', 'country_iso_code': 'US', 'location': {'lon': -74, 'lat': 40.8}, 'region_name': 'New York'}",elyssa@underwood-family.zzz
+Brigitte Underwood,"{'continent_name': 'North America', 'city_name': 'New York', 'country_iso_code': 'US', 'location': {'lon': -74, 'lat': 40.8}, 'region_name': 'New York'}",brigitte@underwood-family.zzz
+Youssef Underwood,"{'continent_name': 'North America', 'city_name': 'New York', 'country_iso_code': 'US', 'location': {'lon': -74, 'lat': 40.8}, 'region_name': 'New York'}",youssef@underwood-family.zzz
+Betty Underwood,"{'continent_name': 'North America', 'city_name': 'New York', 'country_iso_code': 'US', 'location': {'lon': -74, 'lat': 40.7}, 'region_name': 'New York'}",betty@underwood-family.zzz
+Brigitte Underwood,"{'continent_name': 'North America', 'city_name': 'New York', 'country_iso_code': 'US', 'location': {'lon': -74, 'lat': 40.8}, 'region_name': 'New York'}",brigitte@underwood-family.zzz
+Mary Underwood,"{'continent_name': 'Asia', 'city_name': 'Dubai', 'country_iso_code': 'AE', 'location': {'lon': 55.3, 'lat': 25.3}, 'region_name': 'Dubai'}",mary@underwood-family.zzz
+Elyssa Underwood,"{'continent_name': 'North America', 'city_name': 'New York', 'country_iso_code': 'US', 'location': {'lon': -74, 'lat': 40.8}, 'region_name': 'New York'}",elyssa@underwood-family.zzz
+Yahya Underwood,"{'continent_name': 'Africa', 'city_name': 'Marrakesh', 'country_iso_code': 'MA', 'location': {'lon': -8, 'lat': 31.6}, 'region_name': 'Marrakech-Tensift-Al Haouz'}",yahya@underwood-family.zzz
+Gwen Underwood,"{'continent_name': 'North America', 'city_name': 'Los Angeles', 'country_iso_code': 'US', 'location': {'lon': -118.2, 'lat': 34.1}, 'region_name': 'California'}",gwen@underwood-family.zzz
+Brigitte Underwood,"{'continent_name': 'North America', 'city_name': 'New York', 'country_iso_code': 'US', 'location': {'lon': -74, 'lat': 40.8}, 'region_name': 'New York'}",brigitte@underwood-family.zzz
+Eddie Weber,"{'continent_name': 'Africa', 'city_name': 'Cairo', 'country_iso_code': 'EG', 'location': {'lon': 31.3, 'lat': 30.1}, 'region_name': 'Cairo Governorate'}",eddie@weber-family.zzz
+Eddie Gregory,"{'continent_name': 'Africa', 'city_name': 'Cairo', 'country_iso_code': 'EG', 'location': {'lon': 31.3, 'lat': 30.1}, 'region_name': 'Cairo Governorate'}",eddie@gregory-family.zzz
+Eddie Wolfe,"{'continent_name': 'Africa', 'city_name': 'Cairo', 'country_iso_code': 'EG', 'location': {'lon': 31.3, 'lat': 30.1}, 'region_name': 'Cairo Governorate'}",eddie@wolfe-family.zzz
+Eddie Simpson,"{'continent_name': 'Africa', 'city_name': 'Cairo', 'country_iso_code': 'EG', 'location': {'lon': 31.3, 'lat': 30.1}, 'region_name': 'Cairo Governorate'}",eddie@simpson-family.zzz
+Eddie Riley,"{'continent_name': 'Africa', 'city_name': 'Cairo', 'country_iso_code': 'EG', 'location': {'lon': 31.3, 'lat': 30.1}, 'region_name': 'Cairo Governorate'}",eddie@riley-family.zzz
+Eddie Graham,"{'continent_name': 'Africa', 'city_name': 'Cairo', 'country_iso_code': 'EG', 'location': {'lon': 31.3, 'lat': 30.1}, 'region_name': 'Cairo Governorate'}",eddie@graham-family.zzz
+Eddie Clayton,"{'continent_name': 'Africa', 'city_name': 'Cairo', 'country_iso_code': 'EG', 'location': {'lon': 31.3, 'lat': 30.1}, 'region_name': 'Cairo Governorate'}",eddie@clayton-family.zzz
+Eddie Riley,"{'continent_name': 'Africa', 'city_name': 'Cairo', 'country_iso_code': 'EG', 'location': {'lon': 31.3, 'lat': 30.1}, 'region_name': 'Cairo Governorate'}",eddie@riley-family.zzz
+Eddie Garza,"{'continent_name': 'Africa', 'city_name': 'Cairo', 'country_iso_code': 'EG', 'location': {'lon': 31.3, 'lat': 30.1}, 'region_name': 'Cairo Governorate'}",eddie@garza-family.zzz
+Eddie King,"{'continent_name': 'Africa', 'city_name': 'Cairo', 'country_iso_code': 'EG', 'location': {'lon': 31.3, 'lat': 30.1}, 'region_name': 'Cairo Governorate'}",eddie@king-family.zzz
+Eddie Thompson,"{'continent_name': 'Africa', 'city_name': 'Cairo', 'country_iso_code': 'EG', 'location': {'lon': 31.3, 'lat': 30.1}, 'region_name': 'Cairo Governorate'}",eddie@thompson-family.zzz
+Eddie Martin,"{'continent_name': 'Africa', 'city_name': 'Cairo', 'country_iso_code': 'EG', 'location': {'lon': 31.3, 'lat': 30.1}, 'region_name': 'Cairo Governorate'}",eddie@martin-family.zzz
+Eddie Roberson,"{'continent_name': 'Africa', 'city_name': 'Cairo', 'country_iso_code': 'EG', 'location': {'lon': 31.3, 'lat': 30.1}, 'region_name': 'Cairo Governorate'}",eddie@roberson-family.zzz
+Eddie Holland,"{'continent_name': 'Africa', 'city_name': 'Cairo', 'country_iso_code': 'EG', 'location': {'lon': 31.3, 'lat': 30.1}, 'region_name': 'Cairo Governorate'}",eddie@holland-family.zzz
+Eddie Summers,"{'continent_name': 'Africa', 'city_name': 'Cairo', 'country_iso_code': 'EG', 'location': {'lon': 31.3, 'lat': 30.1}, 'region_name': 'Cairo Governorate'}",eddie@summers-family.zzz
+Eddie Massey,"{'continent_name': 'Africa', 'city_name': 'Cairo', 'country_iso_code': 'EG', 'location': {'lon': 31.3, 'lat': 30.1}, 'region_name': 'Cairo Governorate'}",eddie@massey-family.zzz
+Eddie Burton,"{'continent_name': 'Africa', 'city_name': 'Cairo', 'country_iso_code': 'EG', 'location': {'lon': 31.3, 'lat': 30.1}, 'region_name': 'Cairo Governorate'}",eddie@burton-family.zzz
+Eddie Miller,"{'continent_name': 'Africa', 'city_name': 'Cairo', 'country_iso_code': 'EG', 'location': {'lon': 31.3, 'lat': 30.1}, 'region_name': 'Cairo Governorate'}",eddie@miller-family.zzz
+Eddie Lloyd,"{'continent_name': 'Africa', 'city_name': 'Cairo', 'country_iso_code': 'EG', 'location': {'lon': 31.3, 'lat': 30.1}, 'region_name': 'Cairo Governorate'}",eddie@lloyd-family.zzz
+Eddie Griffin,"{'continent_name': 'Africa', 'city_name': 'Cairo', 'country_iso_code': 'EG', 'location': {'lon': 31.3, 'lat': 30.1}, 'region_name': 'Cairo Governorate'}",eddie@griffin-family.zzz
+Eddie Reese,"{'continent_name': 'Africa', 'city_name': 'Cairo', 'country_iso_code': 'EG', 'location': {'lon': 31.3, 'lat': 30.1}, 'region_name': 'Cairo Governorate'}",eddie@reese-family.zzz
+Eddie Byrd,"{'continent_name': 'Africa', 'city_name': 'Cairo', 'country_iso_code': 'EG', 'location': {'lon': 31.3, 'lat': 30.1}, 'region_name': 'Cairo Governorate'}",eddie@byrd-family.zzz
+Eddie Byrd,"{'continent_name': 'Africa', 'city_name': 'Cairo', 'country_iso_code': 'EG', 'location': {'lon': 31.3, 'lat': 30.1}, 'region_name': 'Cairo Governorate'}",eddie@byrd-family.zzz
+Eddie Gregory,"{'continent_name': 'Africa', 'city_name': 'Cairo', 'country_iso_code': 'EG', 'location': {'lon': 31.3, 'lat': 30.1}, 'region_name': 'Cairo Governorate'}",eddie@gregory-family.zzz
+Eddie Graham,"{'continent_name': 'Africa', 'city_name': 'Cairo', 'country_iso_code': 'EG', 'location': {'lon': 31.3, 'lat': 30.1}, 'region_name': 'Cairo Governorate'}",eddie@graham-family.zzz
+Eddie Rice,"{'continent_name': 'Africa', 'city_name': 'Cairo', 'country_iso_code': 'EG', 'location': {'lon': 31.3, 'lat': 30.1}, 'region_name': 'Cairo Governorate'}",eddie@rice-family.zzz
+Eddie Gomez,"{'continent_name': 'Africa', 'city_name': 'Cairo', 'country_iso_code': 'EG', 'location': {'lon': 31.3, 'lat': 30.1}, 'region_name': 'Cairo Governorate'}",eddie@gomez-family.zzz
+Eddie Elliott,"{'continent_name': 'Africa', 'city_name': 'Cairo', 'country_iso_code': 'EG', 'location': {'lon': 31.3, 'lat': 30.1}, 'region_name': 'Cairo Governorate'}",eddie@elliott-family.zzz
+Eddie Mccormick,"{'continent_name': 'Africa', 'city_name': 'Cairo', 'country_iso_code': 'EG', 'location': {'lon': 31.3, 'lat': 30.1}, 'region_name': 'Cairo Governorate'}",eddie@mccormick-family.zzz
+Eddie Farmer,"{'continent_name': 'Africa', 'city_name': 'Cairo', 'country_iso_code': 'EG', 'location': {'lon': 31.3, 'lat': 30.1}, 'region_name': 'Cairo Governorate'}",eddie@farmer-family.zzz
+Eddie Massey,"{'continent_name': 'Africa', 'city_name': 'Cairo', 'country_iso_code': 'EG', 'location': {'lon': 31.3, 'lat': 30.1}, 'region_name': 'Cairo Governorate'}",eddie@massey-family.zzz
+Eddie Simmons,"{'continent_name': 'Africa', 'city_name': 'Cairo', 'country_iso_code': 'EG', 'location': {'lon': 31.3, 'lat': 30.1}, 'region_name': 'Cairo Governorate'}",eddie@simmons-family.zzz
+Eddie Perry,"{'continent_name': 'Africa', 'city_name': 'Cairo', 'country_iso_code': 'EG', 'location': {'lon': 31.3, 'lat': 30.1}, 'region_name': 'Cairo Governorate'}",eddie@perry-family.zzz
+Eddie Weber,"{'continent_name': 'Africa', 'city_name': 'Cairo', 'country_iso_code': 'EG', 'location': {'lon': 31.3, 'lat': 30.1}, 'region_name': 'Cairo Governorate'}",eddie@weber-family.zzz
+Eddie Martin,"{'continent_name': 'Africa', 'city_name': 'Cairo', 'country_iso_code': 'EG', 'location': {'lon': 31.3, 'lat': 30.1}, 'region_name': 'Cairo Governorate'}",eddie@martin-family.zzz
+Eddie Sanders,"{'continent_name': 'Africa', 'city_name': 'Cairo', 'country_iso_code': 'EG', 'location': {'lon': 31.3, 'lat': 30.1}, 'region_name': 'Cairo Governorate'}",eddie@sanders-family.zzz
+Eddie Hodges,"{'continent_name': 'Africa', 'city_name': 'Cairo', 'country_iso_code': 'EG', 'location': {'lon': 31.3, 'lat': 30.1}, 'region_name': 'Cairo Governorate'}",eddie@hodges-family.zzz
+Eddie Lambert,"{'continent_name': 'Africa', 'city_name': 'Cairo', 'country_iso_code': 'EG', 'location': {'lon': 31.3, 'lat': 30.1}, 'region_name': 'Cairo Governorate'}",eddie@lambert-family.zzz
+Eddie Sutton,"{'continent_name': 'Africa', 'city_name': 'Cairo', 'country_iso_code': 'EG', 'location': {'lon': 31.3, 'lat': 30.1}, 'region_name': 'Cairo Governorate'}",eddie@sutton-family.zzz
+Eddie Phelps,"{'continent_name': 'Africa', 'city_name': 'Cairo', 'country_iso_code': 'EG', 'location': {'lon': 31.3, 'lat': 30.1}, 'region_name': 'Cairo Governorate'}",eddie@phelps-family.zzz
+Eddie Jacobs,"{'continent_name': 'Africa', 'city_name': 'Cairo', 'country_iso_code': 'EG', 'location': {'lon': 31.3, 'lat': 30.1}, 'region_name': 'Cairo Governorate'}",eddie@jacobs-family.zzz
+Eddie Clayton,"{'continent_name': 'Africa', 'city_name': 'Cairo', 'country_iso_code': 'EG', 'location': {'lon': 31.3, 'lat': 30.1}, 'region_name': 'Cairo Governorate'}",eddie@clayton-family.zzz
+Eddie Taylor,"{'continent_name': 'Africa', 'city_name': 'Cairo', 'country_iso_code': 'EG', 'location': {'lon': 31.3, 'lat': 30.1}, 'region_name': 'Cairo Governorate'}",eddie@taylor-family.zzz
+Eddie Figueroa,"{'continent_name': 'Africa', 'city_name': 'Cairo', 'country_iso_code': 'EG', 'location': {'lon': 31.3, 'lat': 30.1}, 'region_name': 'Cairo Governorate'}",eddie@figueroa-family.zzz
+Eddie Lawrence,"{'continent_name': 'Africa', 'city_name': 'Cairo', 'country_iso_code': 'EG', 'location': {'lon': 31.3, 'lat': 30.1}, 'region_name': 'Cairo Governorate'}",eddie@lawrence-family.zzz
+Eddie Little,"{'continent_name': 'Africa', 'city_name': 'Cairo', 'country_iso_code': 'EG', 'location': {'lon': 31.3, 'lat': 30.1}, 'region_name': 'Cairo Governorate'}",eddie@little-family.zzz
+Eddie Moss,"{'continent_name': 'Africa', 'city_name': 'Cairo', 'country_iso_code': 'EG', 'location': {'lon': 31.3, 'lat': 30.1}, 'region_name': 'Cairo Governorate'}",eddie@moss-family.zzz
+Eddie Harper,"{'continent_name': 'Africa', 'city_name': 'Cairo', 'country_iso_code': 'EG', 'location': {'lon': 31.3, 'lat': 30.1}, 'region_name': 'Cairo Governorate'}",eddie@harper-family.zzz

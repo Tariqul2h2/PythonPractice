@@ -1,0 +1,326 @@
+    country_iso_code  location        region_name continent_name city_name
+lat               EG      30.1  Cairo Governorate         Africa     Cairo
+lon               EG      31.3  Cairo Governorate         Africa     Cairo
+    country_iso_code  location region_name continent_name city_name
+lat               AE      25.3       Dubai           Asia     Dubai
+lon               AE      55.3       Dubai           Asia     Dubai
+    country_iso_code  location region_name continent_name    city_name
+lat               US      34.1  California  North America  Los Angeles
+lon               US    -118.2  California  North America  Los Angeles
+    country_iso_code  location continent_name
+lat               GB      51.5         Europe
+lon               GB      -0.1         Europe
+    country_iso_code  location        region_name continent_name city_name
+lat               EG      30.1  Cairo Governorate         Africa     Cairo
+lon               EG      31.3  Cairo Governorate         Africa     Cairo
+    country_iso_code  location continent_name
+lat               GB      51.5         Europe
+lon               GB      -0.1         Europe
+    country_iso_code  location continent_name
+lat               GB      51.5         Europe
+lon               GB      -0.1         Europe
+    country_iso_code  location        region_name continent_name city_name
+lat               EG      30.1  Cairo Governorate         Africa     Cairo
+lon               EG      31.3  Cairo Governorate         Africa     Cairo
+    country_iso_code  location continent_name    city_name
+lat               MC      43.7         Europe  Monte Carlo
+lon               MC       7.4         Europe  Monte Carlo
+    country_iso_code  location region_name continent_name city_name
+lat               AE      25.3       Dubai           Asia     Dubai
+lon               AE      55.3       Dubai           Asia     Dubai
+    country_iso_code  location region_name continent_name city_name
+lat               AE      25.3       Dubai           Asia     Dubai
+lon               AE      55.3       Dubai           Asia     Dubai
+    country_iso_code  location        region_name continent_name city_name
+lat               EG      30.1  Cairo Governorate         Africa     Cairo
+lon               EG      31.3  Cairo Governorate         Africa     Cairo
+    country_iso_code  location region_name continent_name  city_name
+lat               AE      24.5   Abu Dhabi           Asia  Abu Dhabi
+lon               AE      54.4   Abu Dhabi           Asia  Abu Dhabi
+    country_iso_code  location        region_name continent_name city_name
+lat               EG      30.1  Cairo Governorate         Africa     Cairo
+lon               EG      31.3  Cairo Governorate         Africa     Cairo
+    country_iso_code  location region_name continent_name  city_name
+lat               AE      24.5   Abu Dhabi           Asia  Abu Dhabi
+lon               AE      54.4   Abu Dhabi           Asia  Abu Dhabi
+    country_iso_code  location region_name continent_name  city_name
+lat               AE      24.5   Abu Dhabi           Asia  Abu Dhabi
+lon               AE      54.4   Abu Dhabi           Asia  Abu Dhabi
+    country_iso_code  location region_name continent_name   city_name
+lat               GB      52.5  Birmingham         Europe  Birmingham
+lon               GB      -1.9  Birmingham         Europe  Birmingham
+    country_iso_code  location continent_name
+lat               GB      51.5         Europe
+lon               GB      -0.1         Europe
+    country_iso_code  location  ... continent_name  city_name
+lat               MA      31.6  ...         Africa  Marrakesh
+lon               MA      -8.0  ...         Africa  Marrakesh
+
+[2 rows x 5 columns]
+    country_iso_code  location region_name continent_name city_name
+lat               US      40.8    New York  North America  New York
+lon               US     -74.0    New York  North America  New York
+    country_iso_code  location  ... continent_name  city_name
+lat               MA      31.6  ...         Africa  Marrakesh
+lon               MA      -8.0  ...         Africa  Marrakesh
+
+[2 rows x 5 columns]
+    country_iso_code  location        region_name continent_name city_name
+lat               EG      30.1  Cairo Governorate         Africa     Cairo
+lon               EG      31.3  Cairo Governorate         Africa     Cairo
+    country_iso_code  location region_name continent_name city_name
+lat               AE      25.3       Dubai           Asia     Dubai
+lon               AE      55.3       Dubai           Asia     Dubai
+    country_iso_code  location  ... continent_name  city_name
+lat               MA      31.6  ...         Africa  Marrakesh
+lon               MA      -8.0  ...         Africa  Marrakesh
+
+[2 rows x 5 columns]
+    country_iso_code  location region_name continent_name city_name
+lat               US      40.8    New York  North America  New York
+lon               US     -74.0    New York  North America  New York
+    country_iso_code  location  ... continent_name  city_name
+lat               MA      31.6  ...         Africa  Marrakesh
+lon               MA      -8.0  ...         Africa  Marrakesh
+
+[2 rows x 5 columns]
+    country_iso_code  location  region_name continent_name   city_name
+lat               CO       4.6  Bogota D.C.  South America  Bogotu00e1
+lon               CO     -74.1  Bogota D.C.  South America  Bogotu00e1
+    country_iso_code  location continent_name
+lat               GB      51.5         Europe
+lon               GB      -0.1         Europe
+    country_iso_code  location region_name continent_name city_name
+lat               US      40.8    New York  North America  New York
+lon               US     -74.0    New York  North America  New York
+    country_iso_code  location        region_name continent_name city_name
+lat               EG      30.1  Cairo Governorate         Africa     Cairo
+lon               EG      31.3  Cairo Governorate         Africa     Cairo
+    country_iso_code  location region_name continent_name city_name
+lat               AE      25.3       Dubai           Asia     Dubai
+lon               AE      55.3       Dubai           Asia     Dubai
+    country_iso_code  location  ... continent_name  city_name
+lat               MA      31.6  ...         Africa  Marrakesh
+lon               MA      -8.0  ...         Africa  Marrakesh
+
+[2 rows x 5 columns]
+    country_iso_code  location region_name continent_name city_name
+lat               TR        41    Istanbul           Asia  Istanbul
+lon               TR        29    Istanbul           Asia  Istanbul
+    country_iso_code  location  ... continent_name  city_name
+lat               MA      31.6  ...         Africa  Marrakesh
+lon               MA      -8.0  ...         Africa  Marrakesh
+
+[2 rows x 5 columns]
+    country_iso_code  location  ... continent_name  city_name
+lat               MA      31.6  ...         Africa  Marrakesh
+lon               MA      -8.0  ...         Africa  Marrakesh
+
+[2 rows x 5 columns]
+    country_iso_code  location region_name continent_name city_name
+lat               TR        41    Istanbul           Asia  Istanbul
+lon               TR        29    Istanbul           Asia  Istanbul
+    country_iso_code  location        region_name continent_name city_name
+lat               EG      30.1  Cairo Governorate         Africa     Cairo
+lon               EG      31.3  Cairo Governorate         Africa     Cairo
+    country_iso_code  location region_name continent_name city_name
+lat               US      40.8    New York  North America  New York
+lon               US     -74.0    New York  North America  New York
+    country_iso_code  location  ... continent_name  city_name
+lat               MA      31.6  ...         Africa  Marrakesh
+lon               MA      -8.0  ...         Africa  Marrakesh
+
+[2 rows x 5 columns]
+    country_iso_code  location continent_name
+lat               GB      51.5         Europe
+lon               GB      -0.1         Europe
+    country_iso_code  location continent_name
+lat               GB      51.5         Europe
+lon               GB      -0.1         Europe
+    country_iso_code  location      region_name continent_name city_name
+lat               FR      43.6  Alpes-Maritimes         Europe    Cannes
+lon               FR       7.0  Alpes-Maritimes         Europe    Cannes
+    country_iso_code  location region_name continent_name city_name
+lat               US      40.7    New York  North America  New York
+lon               US     -74.0    New York  North America  New York
+    country_iso_code  location        region_name continent_name city_name
+lat               EG      30.1  Cairo Governorate         Africa     Cairo
+lon               EG      31.3  Cairo Governorate         Africa     Cairo
+    country_iso_code  location      region_name continent_name city_name
+lat               FR      43.6  Alpes-Maritimes         Europe    Cannes
+lon               FR       7.0  Alpes-Maritimes         Europe    Cannes
+    country_iso_code  location region_name continent_name city_name
+lat               AE      25.3       Dubai           Asia     Dubai
+lon               AE      55.3       Dubai           Asia     Dubai
+    country_iso_code  location region_name continent_name city_name
+lat               AE      25.3       Dubai           Asia     Dubai
+lon               AE      55.3       Dubai           Asia     Dubai
+    country_iso_code  location        region_name continent_name city_name
+lat               EG      30.1  Cairo Governorate         Africa     Cairo
+lon               EG      31.3  Cairo Governorate         Africa     Cairo
+    country_iso_code  location continent_name    city_name
+lat               MC      43.7         Europe  Monte Carlo
+lon               MC       7.4         Europe  Monte Carlo
+    country_iso_code  location continent_name
+lat               SA        25           Asia
+lon               SA        45           Asia
+    country_iso_code  location        region_name continent_name city_name
+lat               EG      30.1  Cairo Governorate         Africa     Cairo
+lon               EG      31.3  Cairo Governorate         Africa     Cairo
+    country_iso_code  location region_name continent_name    city_name
+lat               US      34.1  California  North America  Los Angeles
+lon               US    -118.2  California  North America  Los Angeles
+    country_iso_code  location continent_name    city_name
+lat               MC      43.7         Europe  Monte Carlo
+lon               MC       7.4         Europe  Monte Carlo
+    country_iso_code  location  ... continent_name  city_name
+lat               MA      31.6  ...         Africa  Marrakesh
+lon               MA      -8.0  ...         Africa  Marrakesh
+
+[2 rows x 5 columns]
+    country_iso_code  location region_name continent_name    city_name
+lat               US      34.1  California  North America  Los Angeles
+lon               US    -118.2  California  North America  Los Angeles
+    country_iso_code  location      region_name continent_name city_name
+lat               FR      43.6  Alpes-Maritimes         Europe    Cannes
+lon               FR       7.0  Alpes-Maritimes         Europe    Cannes
+    country_iso_code  location region_name continent_name city_name
+lat               TR        41    Istanbul           Asia  Istanbul
+lon               TR        29    Istanbul           Asia  Istanbul
+    country_iso_code  location region_name continent_name city_name
+lat               US      40.8    New York  North America  New York
+lon               US     -74.0    New York  North America  New York
+    country_iso_code  location region_name continent_name city_name
+lat               US      40.8    New York  North America  New York
+lon               US     -74.0    New York  North America  New York
+    country_iso_code  location region_name continent_name city_name
+lat               TR        41    Istanbul           Asia  Istanbul
+lon               TR        29    Istanbul           Asia  Istanbul
+    country_iso_code  location region_name continent_name city_name
+lat               US      40.8    New York  North America  New York
+lon               US     -74.0    New York  North America  New York
+    country_iso_code  location region_name continent_name city_name
+lat               AE      25.3       Dubai           Asia     Dubai
+lon               AE      55.3       Dubai           Asia     Dubai
+    country_iso_code  location  ... continent_name  city_name
+lat               MA      31.6  ...         Africa  Marrakesh
+lon               MA      -8.0  ...         Africa  Marrakesh
+
+[2 rows x 5 columns]
+    country_iso_code  location region_name continent_name city_name
+lat               US      40.8    New York  North America  New York
+lon               US     -74.0    New York  North America  New York
+    country_iso_code  location region_name continent_name city_name
+lat               AE      25.3       Dubai           Asia     Dubai
+lon               AE      55.3       Dubai           Asia     Dubai
+    country_iso_code  location continent_name
+lat               GB      51.5         Europe
+lon               GB      -0.1         Europe
+    country_iso_code  location region_name continent_name city_name
+lat               TR        41    Istanbul           Asia  Istanbul
+lon               TR        29    Istanbul           Asia  Istanbul
+    country_iso_code  location  region_name continent_name   city_name
+lat               CO       4.6  Bogota D.C.  South America  Bogotu00e1
+lon               CO     -74.1  Bogota D.C.  South America  Bogotu00e1
+    country_iso_code  location region_name continent_name city_name
+lat               US      40.8    New York  North America  New York
+lon               US     -74.0    New York  North America  New York
+    country_iso_code  location region_name continent_name  city_name
+lat               AE      24.5   Abu Dhabi           Asia  Abu Dhabi
+lon               AE      54.4   Abu Dhabi           Asia  Abu Dhabi
+    country_iso_code  location      region_name continent_name city_name
+lat               FR      43.6  Alpes-Maritimes         Europe    Cannes
+lon               FR       7.0  Alpes-Maritimes         Europe    Cannes
+    country_iso_code  location region_name continent_name city_name
+lat               AE      25.3       Dubai           Asia     Dubai
+lon               AE      55.3       Dubai           Asia     Dubai
+    country_iso_code  location region_name continent_name city_name
+lat               AE      25.3       Dubai           Asia     Dubai
+lon               AE      55.3       Dubai           Asia     Dubai
+    country_iso_code  location continent_name
+lat               GB      51.5         Europe
+lon               GB      -0.1         Europe
+    country_iso_code  location        region_name continent_name city_name
+lat               EG      30.1  Cairo Governorate         Africa     Cairo
+lon               EG      31.3  Cairo Governorate         Africa     Cairo
+    country_iso_code  location region_name continent_name    city_name
+lat               US      34.1  California  North America  Los Angeles
+lon               US    -118.2  California  North America  Los Angeles
+    country_iso_code  location continent_name
+lat               GB      51.5         Europe
+lon               GB      -0.1         Europe
+    country_iso_code  location region_name continent_name city_name
+lat               US      40.8    New York  North America  New York
+lon               US     -74.0    New York  North America  New York
+    country_iso_code  location region_name continent_name  city_name
+lat               AE      24.5   Abu Dhabi           Asia  Abu Dhabi
+lon               AE      54.4   Abu Dhabi           Asia  Abu Dhabi
+    country_iso_code  location      region_name continent_name city_name
+lat               FR      43.6  Alpes-Maritimes         Europe    Cannes
+lon               FR       7.0  Alpes-Maritimes         Europe    Cannes
+    country_iso_code  location continent_name
+lat               GB      51.5         Europe
+lon               GB      -0.1         Europe
+    country_iso_code  location        region_name continent_name city_name
+lat               EG      30.1  Cairo Governorate         Africa     Cairo
+lon               EG      31.3  Cairo Governorate         Africa     Cairo
+    country_iso_code  location  region_name continent_name   city_name
+lat               CO       4.6  Bogota D.C.  South America  Bogotu00e1
+lon               CO     -74.1  Bogota D.C.  South America  Bogotu00e1
+    country_iso_code  location        region_name continent_name city_name
+lat               EG      30.1  Cairo Governorate         Africa     Cairo
+lon               EG      31.3  Cairo Governorate         Africa     Cairo
+    country_iso_code  location region_name continent_name city_name
+lat               AE      25.3       Dubai           Asia     Dubai
+lon               AE      55.3       Dubai           Asia     Dubai
+    country_iso_code  location  ... continent_name  city_name
+lat               MA      31.6  ...         Africa  Marrakesh
+lon               MA      -8.0  ...         Africa  Marrakesh
+
+[2 rows x 5 columns]
+    country_iso_code  location      region_name continent_name city_name
+lat               FR      43.6  Alpes-Maritimes         Europe    Cannes
+lon               FR       7.0  Alpes-Maritimes         Europe    Cannes
+    country_iso_code  location continent_name
+lat               SA        25           Asia
+lon               SA        45           Asia
+    country_iso_code  location region_name continent_name city_name
+lat               AE      25.3       Dubai           Asia     Dubai
+lon               AE      55.3       Dubai           Asia     Dubai
+    country_iso_code  location region_name continent_name city_name
+lat               US      40.8    New York  North America  New York
+lon               US     -74.0    New York  North America  New York
+    country_iso_code  location        region_name continent_name city_name
+lat               EG      30.1  Cairo Governorate         Africa     Cairo
+lon               EG      31.3  Cairo Governorate         Africa     Cairo
+    country_iso_code  location region_name continent_name  city_name
+lat               AE      24.5   Abu Dhabi           Asia  Abu Dhabi
+lon               AE      54.4   Abu Dhabi           Asia  Abu Dhabi
+    country_iso_code  location  ... continent_name  city_name
+lat               MA      31.6  ...         Africa  Marrakesh
+lon               MA      -8.0  ...         Africa  Marrakesh
+
+[2 rows x 5 columns]
+    country_iso_code  location region_name continent_name city_name
+lat               TR        41    Istanbul           Asia  Istanbul
+lon               TR        29    Istanbul           Asia  Istanbul
+    country_iso_code  location region_name continent_name   city_name
+lat               GB      52.5  Birmingham         Europe  Birmingham
+lon               GB      -1.9  Birmingham         Europe  Birmingham
+    country_iso_code  location region_name continent_name city_name
+lat               US      40.8    New York  North America  New York
+lon               US     -74.0    New York  North America  New York
+    country_iso_code  location continent_name
+lat               SA        25           Asia
+lon               SA        45           Asia
+    country_iso_code  location region_name continent_name    city_name
+lat               US      34.1  California  North America  Los Angeles
+lon               US    -118.2  California  North America  Los Angeles
+    country_iso_code  location  ... continent_name  city_name
+lat               MA      31.6  ...         Africa  Marrakesh
+lon               MA      -8.0  ...         Africa  Marrakesh
+
+[2 rows x 5 columns]
+    country_iso_code  location region_name continent_name city_name
+lat               US      40.8    New York  North America  New York
+lon               US     -74.0    New York  North America  New York

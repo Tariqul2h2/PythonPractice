@@ -1,0 +1,101 @@
+customer_full_name,geoip,email
+Eddie Underwood,"{'continent_name': 'Africa', 'city_name': 'Cairo', 'country_iso_code': 'EG', 'location': {'lon': 31.3, 'lat': 30.1}, 'region_name': 'Cairo Governorate'}",eddie@underwood-family.zzz
+Mary Bailey,"{'continent_name': 'Asia', 'city_name': 'Dubai', 'country_iso_code': 'AE', 'location': {'lon': 55.3, 'lat': 25.3}, 'region_name': 'Dubai'}",mary@bailey-family.zzz
+Gwen Butler,"{'continent_name': 'North America', 'city_name': 'Los Angeles', 'country_iso_code': 'US', 'location': {'lon': -118.2, 'lat': 34.1}, 'region_name': 'California'}",gwen@butler-family.zzz
+Diane Chandler,"{'continent_name': 'Europe', 'country_iso_code': 'GB', 'location': {'lon': -0.1, 'lat': 51.5}}",diane@chandler-family.zzz
+Eddie Weber,"{'continent_name': 'Africa', 'city_name': 'Cairo', 'country_iso_code': 'EG', 'location': {'lon': 31.3, 'lat': 30.1}, 'region_name': 'Cairo Governorate'}",eddie@weber-family.zzz
+Diane Goodwin,"{'continent_name': 'Europe', 'country_iso_code': 'GB', 'location': {'lon': -0.1, 'lat': 51.5}}",diane@goodwin-family.zzz
+Oliver Rios,"{'continent_name': 'Europe', 'country_iso_code': 'GB', 'location': {'lon': -0.1, 'lat': 51.5}}",oliver@rios-family.zzz
+Abd Sutton,"{'continent_name': 'Africa', 'city_name': 'Cairo', 'country_iso_code': 'EG', 'location': {'lon': 31.3, 'lat': 30.1}, 'region_name': 'Cairo Governorate'}",abd@sutton-family.zzz
+Wilhemina St. Tran,"{'continent_name': 'Europe', 'city_name': 'Monte Carlo', 'country_iso_code': 'MC', 'location': {'lon': 7.4, 'lat': 43.7}}",wilhemina st.@tran-family.zzz
+Rabbia Al Baker,"{'continent_name': 'Asia', 'city_name': 'Dubai', 'country_iso_code': 'AE', 'location': {'lon': 55.3, 'lat': 25.3}, 'region_name': 'Dubai'}",rabbia al@baker-family.zzz
+Rabbia Al Romero,"{'continent_name': 'Asia', 'city_name': 'Dubai', 'country_iso_code': 'AE', 'location': {'lon': 55.3, 'lat': 25.3}, 'region_name': 'Dubai'}",rabbia al@romero-family.zzz
+Eddie Gregory,"{'continent_name': 'Africa', 'city_name': 'Cairo', 'country_iso_code': 'EG', 'location': {'lon': 31.3, 'lat': 30.1}, 'region_name': 'Cairo Governorate'}",eddie@gregory-family.zzz
+Sultan Al Pratt,"{'continent_name': 'Asia', 'city_name': 'Abu Dhabi', 'country_iso_code': 'AE', 'location': {'lon': 54.4, 'lat': 24.5}, 'region_name': 'Abu Dhabi'}",sultan al@pratt-family.zzz
+Eddie Wolfe,"{'continent_name': 'Africa', 'city_name': 'Cairo', 'country_iso_code': 'EG', 'location': {'lon': 31.3, 'lat': 30.1}, 'region_name': 'Cairo Governorate'}",eddie@wolfe-family.zzz
+Sultan Al Thompson,"{'continent_name': 'Asia', 'city_name': 'Abu Dhabi', 'country_iso_code': 'AE', 'location': {'lon': 54.4, 'lat': 24.5}, 'region_name': 'Abu Dhabi'}",sultan al@thompson-family.zzz
+Sultan Al Boone,"{'continent_name': 'Asia', 'city_name': 'Abu Dhabi', 'country_iso_code': 'AE', 'location': {'lon': 54.4, 'lat': 24.5}, 'region_name': 'Abu Dhabi'}",sultan al@boone-family.zzz
+George Hubbard,"{'continent_name': 'Europe', 'city_name': 'Birmingham', 'country_iso_code': 'GB', 'location': {'lon': -1.9, 'lat': 52.5}, 'region_name': 'Birmingham'}",george@hubbard-family.zzz
+Boris Maldonado,"{'continent_name': 'Europe', 'country_iso_code': 'GB', 'location': {'lon': -0.1, 'lat': 51.5}}",boris@maldonado-family.zzz
+Yahya Rivera,"{'continent_name': 'Africa', 'city_name': 'Marrakesh', 'country_iso_code': 'MA', 'location': {'lon': -8, 'lat': 31.6}, 'region_name': 'Marrakech-Tensift-Al Haouz'}",yahya@rivera-family.zzz
+Brigitte Morris,"{'continent_name': 'North America', 'city_name': 'New York', 'country_iso_code': 'US', 'location': {'lon': -74, 'lat': 40.8}, 'region_name': 'New York'}",brigitte@morris-family.zzz
+Selena Bryant,"{'continent_name': 'Africa', 'city_name': 'Marrakesh', 'country_iso_code': 'MA', 'location': {'lon': -8, 'lat': 31.6}, 'region_name': 'Marrakech-Tensift-Al Haouz'}",selena@bryant-family.zzz
+rania Padilla,"{'continent_name': 'Africa', 'city_name': 'Cairo', 'country_iso_code': 'EG', 'location': {'lon': 31.3, 'lat': 30.1}, 'region_name': 'Cairo Governorate'}",rania@padilla-family.zzz
+Mary Barber,"{'continent_name': 'Asia', 'city_name': 'Dubai', 'country_iso_code': 'AE', 'location': {'lon': 55.3, 'lat': 25.3}, 'region_name': 'Dubai'}",mary@barber-family.zzz
+Muniz Riley,"{'continent_name': 'Africa', 'city_name': 'Marrakesh', 'country_iso_code': 'MA', 'location': {'lon': -8, 'lat': 31.6}, 'region_name': 'Marrakech-Tensift-Al Haouz'}",muniz@riley-family.zzz
+Brigitte Butler,"{'continent_name': 'North America', 'city_name': 'New York', 'country_iso_code': 'US', 'location': {'lon': -74, 'lat': 40.8}, 'region_name': 'New York'}",brigitte@butler-family.zzz
+Yahya Hopkins,"{'continent_name': 'Africa', 'city_name': 'Marrakesh', 'country_iso_code': 'MA', 'location': {'lon': -8, 'lat': 31.6}, 'region_name': 'Marrakech-Tensift-Al Haouz'}",yahya@hopkins-family.zzz
+Sonya Foster,"{'continent_name': 'South America', 'city_name': 'Bogotu00e1', 'country_iso_code': 'CO', 'location': {'lon': -74.1, 'lat': 4.6}, 'region_name': 'Bogota D.C.'}",sonya@foster-family.zzz
+Diane Byrd,"{'continent_name': 'Europe', 'country_iso_code': 'GB', 'location': {'lon': -0.1, 'lat': 51.5}}",diane@byrd-family.zzz
+Brigitte King,"{'continent_name': 'North America', 'city_name': 'New York', 'country_iso_code': 'US', 'location': {'lon': -74, 'lat': 40.8}, 'region_name': 'New York'}",brigitte@king-family.zzz
+rania Farmer,"{'continent_name': 'Africa', 'city_name': 'Cairo', 'country_iso_code': 'EG', 'location': {'lon': 31.3, 'lat': 30.1}, 'region_name': 'Cairo Governorate'}",rania@farmer-family.zzz
+Robbie Wells,"{'continent_name': 'Asia', 'city_name': 'Dubai', 'country_iso_code': 'AE', 'location': {'lon': 55.3, 'lat': 25.3}, 'region_name': 'Dubai'}",robbie@wells-family.zzz
+Selena Barber,"{'continent_name': 'Africa', 'city_name': 'Marrakesh', 'country_iso_code': 'MA', 'location': {'lon': -8, 'lat': 31.6}, 'region_name': 'Marrakech-Tensift-Al Haouz'}",selena@barber-family.zzz
+Kamal Jenkins,"{'continent_name': 'Asia', 'city_name': 'Istanbul', 'country_iso_code': 'TR', 'location': {'lon': 29, 'lat': 41}, 'region_name': 'Istanbul'}",kamal@jenkins-family.zzz
+Muniz Rivera,"{'continent_name': 'Africa', 'city_name': 'Marrakesh', 'country_iso_code': 'MA', 'location': {'lon': -8, 'lat': 31.6}, 'region_name': 'Marrakech-Tensift-Al Haouz'}",muniz@rivera-family.zzz
+Selena Holland,"{'continent_name': 'Africa', 'city_name': 'Marrakesh', 'country_iso_code': 'MA', 'location': {'lon': -8, 'lat': 31.6}, 'region_name': 'Marrakech-Tensift-Al Haouz'}",selena@holland-family.zzz
+Recip Gregory,"{'continent_name': 'Asia', 'city_name': 'Istanbul', 'country_iso_code': 'TR', 'location': {'lon': 29, 'lat': 41}, 'region_name': 'Istanbul'}",recip@gregory-family.zzz
+Abd Hernandez,"{'continent_name': 'Africa', 'city_name': 'Cairo', 'country_iso_code': 'EG', 'location': {'lon': 31.3, 'lat': 30.1}, 'region_name': 'Cairo Governorate'}",abd@hernandez-family.zzz
+Elyssa Underwood,"{'continent_name': 'North America', 'city_name': 'New York', 'country_iso_code': 'US', 'location': {'lon': -74, 'lat': 40.8}, 'region_name': 'New York'}",elyssa@underwood-family.zzz
+Yahya Barber,"{'continent_name': 'Africa', 'city_name': 'Marrakesh', 'country_iso_code': 'MA', 'location': {'lon': -8, 'lat': 31.6}, 'region_name': 'Marrakech-Tensift-Al Haouz'}",yahya@barber-family.zzz
+Boris Bradley,"{'continent_name': 'Europe', 'country_iso_code': 'GB', 'location': {'lon': -0.1, 'lat': 51.5}}",boris@bradley-family.zzz
+Oliver Hubbard,"{'continent_name': 'Europe', 'country_iso_code': 'GB', 'location': {'lon': -0.1, 'lat': 51.5}}",oliver@hubbard-family.zzz
+Pia Richards,"{'continent_name': 'Europe', 'city_name': 'Cannes', 'country_iso_code': 'FR', 'location': {'lon': 7, 'lat': 43.6}, 'region_name': 'Alpes-Maritimes'}",pia@richards-family.zzz
+Betty Dawson,"{'continent_name': 'North America', 'city_name': 'New York', 'country_iso_code': 'US', 'location': {'lon': -74, 'lat': 40.7}, 'region_name': 'New York'}",betty@dawson-family.zzz
+rania Chandler,"{'continent_name': 'Africa', 'city_name': 'Cairo', 'country_iso_code': 'EG', 'location': {'lon': 31.3, 'lat': 30.1}, 'region_name': 'Cairo Governorate'}",rania@chandler-family.zzz
+Frances Wood,"{'continent_name': 'Europe', 'city_name': 'Cannes', 'country_iso_code': 'FR', 'location': {'lon': 7, 'lat': 43.6}, 'region_name': 'Alpes-Maritimes'}",frances@wood-family.zzz
+Rabbia Al Graham,"{'continent_name': 'Asia', 'city_name': 'Dubai', 'country_iso_code': 'AE', 'location': {'lon': 55.3, 'lat': 25.3}, 'region_name': 'Dubai'}",rabbia al@graham-family.zzz
+Mary Reyes,"{'continent_name': 'Asia', 'city_name': 'Dubai', 'country_iso_code': 'AE', 'location': {'lon': 55.3, 'lat': 25.3}, 'region_name': 'Dubai'}",mary@reyes-family.zzz
+rania Butler,"{'continent_name': 'Africa', 'city_name': 'Cairo', 'country_iso_code': 'EG', 'location': {'lon': 31.3, 'lat': 30.1}, 'region_name': 'Cairo Governorate'}",rania@butler-family.zzz
+Wilhemina St. Parker,"{'continent_name': 'Europe', 'city_name': 'Monte Carlo', 'country_iso_code': 'MC', 'location': {'lon': 7.4, 'lat': 43.7}}",wilhemina st.@parker-family.zzz
+Yasmine Haynes,"{'continent_name': 'Asia', 'country_iso_code': 'SA', 'location': {'lon': 45, 'lat': 25}}",yasmine@haynes-family.zzz
+Mostafa Shaw,"{'continent_name': 'Africa', 'city_name': 'Cairo', 'country_iso_code': 'EG', 'location': {'lon': 31.3, 'lat': 30.1}, 'region_name': 'Cairo Governorate'}",mostafa@shaw-family.zzz
+Jackson Cook,"{'continent_name': 'North America', 'city_name': 'Los Angeles', 'country_iso_code': 'US', 'location': {'lon': -118.2, 'lat': 34.1}, 'region_name': 'California'}",jackson@cook-family.zzz
+Wilhemina St. Mccarthy,"{'continent_name': 'Europe', 'city_name': 'Monte Carlo', 'country_iso_code': 'MC', 'location': {'lon': 7.4, 'lat': 43.7}}",wilhemina st.@mccarthy-family.zzz
+Yahya Lambert,"{'continent_name': 'Africa', 'city_name': 'Marrakesh', 'country_iso_code': 'MA', 'location': {'lon': -8, 'lat': 31.6}, 'region_name': 'Marrakech-Tensift-Al Haouz'}",yahya@lambert-family.zzz
+Jackson Morrison,"{'continent_name': 'North America', 'city_name': 'Los Angeles', 'country_iso_code': 'US', 'location': {'lon': -118.2, 'lat': 34.1}, 'region_name': 'California'}",jackson@morrison-family.zzz
+Stephanie Franklin,"{'continent_name': 'Europe', 'city_name': 'Cannes', 'country_iso_code': 'FR', 'location': {'lon': 7, 'lat': 43.6}, 'region_name': 'Alpes-Maritimes'}",stephanie@franklin-family.zzz
+Recip Ramsey,"{'continent_name': 'Asia', 'city_name': 'Istanbul', 'country_iso_code': 'TR', 'location': {'lon': 29, 'lat': 41}, 'region_name': 'Istanbul'}",recip@ramsey-family.zzz
+Elyssa Graves,"{'continent_name': 'North America', 'city_name': 'New York', 'country_iso_code': 'US', 'location': {'lon': -74, 'lat': 40.8}, 'region_name': 'New York'}",elyssa@graves-family.zzz
+Brigitte Graham,"{'continent_name': 'North America', 'city_name': 'New York', 'country_iso_code': 'US', 'location': {'lon': -74, 'lat': 40.8}, 'region_name': 'New York'}",brigitte@graham-family.zzz
+Kamal Rodriguez,"{'continent_name': 'Asia', 'city_name': 'Istanbul', 'country_iso_code': 'TR', 'location': {'lon': 29, 'lat': 41}, 'region_name': 'Istanbul'}",kamal@rodriguez-family.zzz
+Brigitte Foster,"{'continent_name': 'North America', 'city_name': 'New York', 'country_iso_code': 'US', 'location': {'lon': -74, 'lat': 40.8}, 'region_name': 'New York'}",brigitte@foster-family.zzz
+Rabbia Al Simmons,"{'continent_name': 'Asia', 'city_name': 'Dubai', 'country_iso_code': 'AE', 'location': {'lon': 55.3, 'lat': 25.3}, 'region_name': 'Dubai'}",rabbia al@simmons-family.zzz
+Selena Shaw,"{'continent_name': 'Africa', 'city_name': 'Marrakesh', 'country_iso_code': 'MA', 'location': {'lon': -8, 'lat': 31.6}, 'region_name': 'Marrakech-Tensift-Al Haouz'}",selena@shaw-family.zzz
+Jim Mullins,"{'continent_name': 'North America', 'city_name': 'New York', 'country_iso_code': 'US', 'location': {'lon': -74, 'lat': 40.8}, 'region_name': 'New York'}",jim@mullins-family.zzz
+Rabbia Al Perkins,"{'continent_name': 'Asia', 'city_name': 'Dubai', 'country_iso_code': 'AE', 'location': {'lon': 55.3, 'lat': 25.3}, 'region_name': 'Dubai'}",rabbia al@perkins-family.zzz
+Diane Powell,"{'continent_name': 'Europe', 'country_iso_code': 'GB', 'location': {'lon': -0.1, 'lat': 51.5}}",diane@powell-family.zzz
+Tariq Dixon,"{'continent_name': 'Asia', 'city_name': 'Istanbul', 'country_iso_code': 'TR', 'location': {'lon': 29, 'lat': 41}, 'region_name': 'Istanbul'}",tariq@dixon-family.zzz
+Sonya Daniels,"{'continent_name': 'South America', 'city_name': 'Bogotu00e1', 'country_iso_code': 'CO', 'location': {'lon': -74.1, 'lat': 4.6}, 'region_name': 'Bogota D.C.'}",sonya@daniels-family.zzz
+Jim Maldonado,"{'continent_name': 'North America', 'city_name': 'New York', 'country_iso_code': 'US', 'location': {'lon': -74, 'lat': 40.8}, 'region_name': 'New York'}",jim@maldonado-family.zzz
+Sultan Al Marshall,"{'continent_name': 'Asia', 'city_name': 'Abu Dhabi', 'country_iso_code': 'AE', 'location': {'lon': 54.4, 'lat': 24.5}, 'region_name': 'Abu Dhabi'}",sultan al@marshall-family.zzz
+Stephanie Perry,"{'continent_name': 'Europe', 'city_name': 'Cannes', 'country_iso_code': 'FR', 'location': {'lon': 7, 'lat': 43.6}, 'region_name': 'Alpes-Maritimes'}",stephanie@perry-family.zzz
+Mary Allison,"{'continent_name': 'Asia', 'city_name': 'Dubai', 'country_iso_code': 'AE', 'location': {'lon': 55.3, 'lat': 25.3}, 'region_name': 'Dubai'}",mary@allison-family.zzz
+Mary Fleming,"{'continent_name': 'Asia', 'city_name': 'Dubai', 'country_iso_code': 'AE', 'location': {'lon': 55.3, 'lat': 25.3}, 'region_name': 'Dubai'}",mary@fleming-family.zzz
+Boris Bowers,"{'continent_name': 'Europe', 'country_iso_code': 'GB', 'location': {'lon': -0.1, 'lat': 51.5}}",boris@bowers-family.zzz
+Abd Shaw,"{'continent_name': 'Africa', 'city_name': 'Cairo', 'country_iso_code': 'EG', 'location': {'lon': 31.3, 'lat': 30.1}, 'region_name': 'Cairo Governorate'}",abd@shaw-family.zzz
+Fitzgerald Benson,"{'continent_name': 'North America', 'city_name': 'Los Angeles', 'country_iso_code': 'US', 'location': {'lon': -118.2, 'lat': 34.1}, 'region_name': 'California'}",fitzgerald@benson-family.zzz
+Oliver Phillips,"{'continent_name': 'Europe', 'country_iso_code': 'GB', 'location': {'lon': -0.1, 'lat': 51.5}}",oliver@phillips-family.zzz
+Brigitte Morris,"{'continent_name': 'North America', 'city_name': 'New York', 'country_iso_code': 'US', 'location': {'lon': -74, 'lat': 40.8}, 'region_name': 'New York'}",brigitte@morris-family.zzz
+Abdulraheem Al Mullins,"{'continent_name': 'Asia', 'city_name': 'Abu Dhabi', 'country_iso_code': 'AE', 'location': {'lon': 54.4, 'lat': 24.5}, 'region_name': 'Abu Dhabi'}",abdulraheem al@mullins-family.zzz
+Stephanie Duncan,"{'continent_name': 'Europe', 'city_name': 'Cannes', 'country_iso_code': 'FR', 'location': {'lon': 7, 'lat': 43.6}, 'region_name': 'Alpes-Maritimes'}",stephanie@duncan-family.zzz
+Diane Wise,"{'continent_name': 'Europe', 'country_iso_code': 'GB', 'location': {'lon': -0.1, 'lat': 51.5}}",diane@wise-family.zzz
+rania Shaw,"{'continent_name': 'Africa', 'city_name': 'Cairo', 'country_iso_code': 'EG', 'location': {'lon': 31.3, 'lat': 30.1}, 'region_name': 'Cairo Governorate'}",rania@shaw-family.zzz
+Sonya Frank,"{'continent_name': 'South America', 'city_name': 'Bogotu00e1', 'country_iso_code': 'CO', 'location': {'lon': -74.1, 'lat': 4.6}, 'region_name': 'Bogota D.C.'}",sonya@frank-family.zzz
+rania Adams,"{'continent_name': 'Africa', 'city_name': 'Cairo', 'country_iso_code': 'EG', 'location': {'lon': 31.3, 'lat': 30.1}, 'region_name': 'Cairo Governorate'}",rania@adams-family.zzz
+Samir Goodwin,"{'continent_name': 'Asia', 'city_name': 'Dubai', 'country_iso_code': 'AE', 'location': {'lon': 55.3, 'lat': 25.3}, 'region_name': 'Dubai'}",samir@goodwin-family.zzz
+Selena Rowe,"{'continent_name': 'Africa', 'city_name': 'Marrakesh', 'country_iso_code': 'MA', 'location': {'lon': -8, 'lat': 31.6}, 'region_name': 'Marrakech-Tensift-Al Haouz'}",selena@rowe-family.zzz
+Frances Padilla,"{'continent_name': 'Europe', 'city_name': 'Cannes', 'country_iso_code': 'FR', 'location': {'lon': 7, 'lat': 43.6}, 'region_name': 'Alpes-Maritimes'}",frances@padilla-family.zzz
+Yasmine Greer,"{'continent_name': 'Asia', 'country_iso_code': 'SA', 'location': {'lon': 45, 'lat': 25}}",yasmine@greer-family.zzz
+Mary Richards,"{'continent_name': 'Asia', 'city_name': 'Dubai', 'country_iso_code': 'AE', 'location': {'lon': 55.3, 'lat': 25.3}, 'region_name': 'Dubai'}",mary@richards-family.zzz
+Jason Jacobs,"{'continent_name': 'North America', 'city_name': 'New York', 'country_iso_code': 'US', 'location': {'lon': -74, 'lat': 40.8}, 'region_name': 'New York'}",jason@jacobs-family.zzz
+Abd Ramsey,"{'continent_name': 'Africa', 'city_name': 'Cairo', 'country_iso_code': 'EG', 'location': {'lon': 31.3, 'lat': 30.1}, 'region_name': 'Cairo Governorate'}",abd@ramsey-family.zzz
+Abdulraheem Al Shaw,"{'continent_name': 'Asia', 'city_name': 'Abu Dhabi', 'country_iso_code': 'AE', 'location': {'lon': 54.4, 'lat': 24.5}, 'region_name': 'Abu Dhabi'}",abdulraheem al@shaw-family.zzz
+Selena Greene,"{'continent_name': 'Africa', 'city_name': 'Marrakesh', 'country_iso_code': 'MA', 'location': {'lon': -8, 'lat': 31.6}, 'region_name': 'Marrakech-Tensift-Al Haouz'}",selena@greene-family.zzz
+Kamal Hale,"{'continent_name': 'Asia', 'city_name': 'Istanbul', 'country_iso_code': 'TR', 'location': {'lon': 29, 'lat': 41}, 'region_name': 'Istanbul'}",kamal@hale-family.zzz
+Abigail Hampton,"{'continent_name': 'Europe', 'city_name': 'Birmingham', 'country_iso_code': 'GB', 'location': {'lon': -1.9, 'lat': 52.5}, 'region_name': 'Birmingham'}",abigail@hampton-family.zzz
+Elyssa Marshall,"{'continent_name': 'North America', 'city_name': 'New York', 'country_iso_code': 'US', 'location': {'lon': -74, 'lat': 40.8}, 'region_name': 'New York'}",elyssa@marshall-family.zzz
+Wagdi Kim,"{'continent_name': 'Asia', 'country_iso_code': 'SA', 'location': {'lon': 45, 'lat': 25}}",wagdi@kim-family.zzz
+Gwen Rice,"{'continent_name': 'North America', 'city_name': 'Los Angeles', 'country_iso_code': 'US', 'location': {'lon': -118.2, 'lat': 34.1}, 'region_name': 'California'}",gwen@rice-family.zzz
+Selena Schultz,"{'continent_name': 'Africa', 'city_name': 'Marrakesh', 'country_iso_code': 'MA', 'location': {'lon': -8, 'lat': 31.6}, 'region_name': 'Marrakech-Tensift-Al Haouz'}",selena@schultz-family.zzz
+Jason Phillips,"{'continent_name': 'North America', 'city_name': 'New York', 'country_iso_code': 'US', 'location': {'lon': -74, 'lat': 40.8}, 'region_name': 'New York'}",jason@phillips-family.zzz
